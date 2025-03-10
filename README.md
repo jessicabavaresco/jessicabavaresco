@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jessica Bavaresco and I am a postdoctoral researcher working at the University of Geneva in the [Quantum Theory Group](https://www.unige.ch/gap/qic/theory/) led by Prof. Nicolas Brunner. 
+Hi, my name is Jessica Bavaresco. I'm a permanent research scientist (<em>CNRS chargée de recherche</em>) in the <a href='https://qi.lip6.fr'>QI team</a> at <a href='https://www.lip6.fr/jessica.bavaresco'>LIP6,</a> a CNRS & Sorbonne University computer science laboratory in Paris, France. I work with quantum information science.
 
-I work on the field of quantum information. My main research interests are in higher-order operations and quantum correlations. Some of the topics I have worked on recently involve channel discrimination, genuine multipartite entanglement, metrology, boxworld correlations, and causality in quantum mechanics.
+My main research interests are in higher-order operations and quantum correlations. Some of the topics I have worked on recently involve quantum networks, Bell nonlocality, channel discrimination, genuine multipartite entanglement, metrology, boxworld correlations, and indefinite causal order.
 
 You can find all of my papers on the [arXiv](http://arxiv.org/a/bavaresco_j_1), or check out my [website](https://jessicabavaresco.github.io).
 
